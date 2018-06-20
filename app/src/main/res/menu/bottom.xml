@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cards"
+        android:enabled="true"
+        android:icon="@drawable/ic_stub"
+        android:title="@string/menu_tests"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_dilemmas"
+        android:enabled="true"
+        android:icon="@drawable/ic_stub"
+        android:title="@string/menu_dilemmas"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_citizen_science"
+        android:enabled="true"
+        android:icon="@drawable/ic_stub"
+        android:title="@string/text_citizen_science"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_stub"
+        android:title="@string/text_profile"
+        app:showAsAction="always" />
+</menu>

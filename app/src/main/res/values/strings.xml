@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomViewpager</string>
+    <string name="menu_tests">Тесты</string>
+    <string name="menu_dilemmas">Дилеммы</string>
+    <string name="text_citizen_science">CitiScience</string>
+    <string name="text_profile">Профиль</string>
+</resources>

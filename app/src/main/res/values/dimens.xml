@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_navigation_view_height">56dp</dimen>
+    <dimen name="width">240dp</dimen>
+    <dimen name="height">336dp</dimen>
+    <dimen name="default_elevation">20dp</dimen>
+    <dimen name="card_corners_radius">16dp</dimen>
+    <dimen name="default_gap">40dp</dimen>
+    <dimen name="card_iv_height_collapsed">180dp</dimen>
+    <dimen name="card_iv_height_expanded">248dp</dimen>
+
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="card_spacing_left">60dp</dimen>
+    <dimen name="card_spacing_right">12dp</dimen>
+    <dimen name="test_last_option">64dp</dimen>
+    <dimen name="textpopup_width">280dp</dimen>
+    <dimen name="segmented_pb_height">2dp</dimen>
+    <dimen name="header_bound">33dp</dimen>
+    <dimen name="insight_card_spacing_left">16dp</dimen>
+    <dimen name="insight_card_spacing_right">8dp</dimen>
+    <dimen name="card_width">240dp</dimen>
+    <dimen name="selected_elevation">24dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="toolbar_y_offset">-80dp</dimen>
+    <dimen name="card_collapsed_height">336dp</dimen>
+    <dimen name="card_collapsed_width">240dp</dimen>
+    <dimen name="card_collapsed_radius">16dp</dimen>
+    <dimen name="card_image_expanded_height">248dp</dimen>
+    <dimen name="card_image_collapsed_height">180dp</dimen>
+    <dimen name="card_expanded_infocl_top_margin">32dp</dimen>
+    <dimen name="card_collapsed_infocl_top_margin">12dp</dimen>
+</resources>
